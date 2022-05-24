@@ -80,3 +80,8 @@ export function ingresso(qtdmeia, qtdint, dia, nacionalidade){
 export function freqcarac(texto, caracter){
     
 }
+
+export function maiornum(arr){
+    let x = Math.max(arr);
+    return x;
+}
